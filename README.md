@@ -1,8 +1,7 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://i.ibb.co/mHf4z9t/github-banner-leidy.png" alt="Leidy Villegas Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Leidy%20Villegas&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
-
 
 <h1 align="center">👋 Hola, soy <span style="color:#9b59b6">Leidy Villegas</span></h1>
 <h3 align="center">💻 Desarrolladora en formación | 🚀 Apasionada por la tecnología</h3>
