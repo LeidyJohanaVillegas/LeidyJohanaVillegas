@@ -14,7 +14,7 @@
 Actualmente soy aprendiz en <b>SENA</b> y camper en <b>Campuslands</b>, donde me preparo para crear aplicaciones que resuelvan <b>problemas reales</b>.  
 </p>
 
-<ul align="center">
+<ul>
   <li>👩‍💻 Aprendiendo y mejorando cada día</li>
   <li>🌱 Enfocada en <b>JavaScript, Python y Bases de Datos</b></li>
   <li>🎯 Mi meta: aportar creatividad y habilidades a proyectos que transformen nuestra interacción con la tecnología</li>
