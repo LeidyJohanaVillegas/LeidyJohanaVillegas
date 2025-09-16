@@ -1,7 +1,13 @@
-<!-- Banner superior -->
+<!-- Banner superior con ondas -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=9b59b6,2ecc71,3498db,f1c40f,e74c3c&center=true&vCenter=true&width=1000&lines=👋+Hola%2C+soy+Leidy+Johana+Villegas;💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código;✨+Transformando+ideas+en+realidad;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👩‍💻%20Leidy%20Johana%20Villegas&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
+
+<!-- Texto animado debajo -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=1000&lines=💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código;✨+Transformando+ideas+en+realidad;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
+</div>
+
 
 <h3 align="center">💻 Desarrolladora en formación </h3>
 
