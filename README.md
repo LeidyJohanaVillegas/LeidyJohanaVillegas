@@ -1,9 +1,10 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20HOLA%20SOY%20LEIDY%20JOHANA%20NIÑO%20VILLEGAS&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=9b59b6,2ecc71,3498db,f1c40f,e74c3c&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Leidy+Johana+Villegas;💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código;✨+Transformando+ideas;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
 </div>
 
-<h3 align="center">💻 Desarrolladora en formación | 🚀 Apasionada por la tecnología</h3>
+
+<h3 align="center">💻 Desarrolladora en formación </h3>
 
 ---
 
