@@ -5,10 +5,8 @@
 
 <!-- Texto animado debajo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2600&pause=700&color=00FFFF&background=0d1117&center=true&vCenter=true&width=900&lines=✨+Innovaci%C3%B3n+con+tecnolog%C3%ADa;🚀+Transformando+ideas+en+realidad;💡+Aprender+es+mi+superpoder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=700&color=9b59b6,2ecc71,3498db,f1c40f,e74c3c&center=true&vCenter=true&width=1000&multiline=true&lines=💻+Apasionada+por+la+programación;🚀+Creando+proyectos+innovadores;✨+Transformando+ideas+en+realidad;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
 </div>
-
-
 
 
 <h3 align="center">💻 Desarrolladora en formación </h3>
