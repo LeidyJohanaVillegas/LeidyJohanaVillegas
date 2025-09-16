@@ -1,9 +1,9 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HOLA%20SOY&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HOLA%20SOY%20LEIDY%20JOHANA&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<h1 align="center">👋 <span style="color:#9b59b6">Leidy Villegas</span></h1>
+<h1 align="center">👋 <span style="color:#9b59b6">Niño Villegas</span></h1>
 <h3 align="center">💻 Desarrolladora en formación | 🚀 Apasionada por la tecnología</h3>
 
 ---
