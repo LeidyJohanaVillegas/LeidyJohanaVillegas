@@ -1,27 +1,46 @@
-# 💫 About Me:
-<br>I discovered my passion for programming by exploring how technological solutions can positively impact society. Currently, I am an apprentice at SENA and a camper at Campuslands, where I am preparing to develop innovative applications that solve real-world problems and contribute to technological progress. To achieve this, I continuously train myself, expanding my knowledge and facing challenges, with the goal of bringing creativity and skills to projects that transform our interaction with technology.
+<img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner" width="100%"/>
 
+# 👋 Hola, soy Leidy Villegas  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leidy-villegas-917565357) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeidyJohanaVillegas&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LeidyJohanaVillegas&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeidyJohanaVillegas&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeidyJohanaVillegas&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeidyJohanaVillegas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💫 About Me:
+- 👩‍💻 Aprendiz en **SENA** y **Campuslands**  
+- 🚀 Apasionada por el **desarrollo de aplicaciones innovadoras**  
+- 📚 En constante aprendizaje para **resolver problemas reales con tecnología**  
+- 🎯 Objetivo: aportar **creatividad y habilidades** en proyectos que transformen nuestra interacción con la tecnología  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LeidyJohanaVillegas&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leidy-villegas-917565357)
+
+---
+
+## 💻 Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+</div>
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeidyJohanaVillegas&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeidyJohanaVillegas&layout=compact&theme=tokyonight" height="180em"/>
+</div>
+
+---
+
+## 🏆 Trophies & Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LeidyJohanaVillegas&theme=tokyonight" height="150em"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LeidyJohanaVillegas&theme=nord&no-frame=true&row=1&column=6" height="150em"/>
+</div>
+
+---
+
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=LeidyJohanaVillegas&icon=0&color=1)](https://visitcount.itsvg.in)
