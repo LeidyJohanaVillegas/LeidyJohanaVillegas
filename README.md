@@ -1,7 +1,8 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="banner" width="100%"/>
+  <img src="https://i.ibb.co/mHf4z9t/github-banner-leidy.png" alt="Leidy Villegas Banner" width="100%"/>
 </div>
+
 
 <h1 align="center">👋 Hola, soy <span style="color:#9b59b6">Leidy Villegas</span></h1>
 <h3 align="center">💻 Desarrolladora en formación | 🚀 Apasionada por la tecnología</h3>
