@@ -5,8 +5,9 @@
 
 <!-- Texto animado debajo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=FF5733&background=000000&center=true&vCenter=true&multiline=true&width=900&lines=🔥+Hola,+soy+Leidy+Johana+Villegas;💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=9b59b6&center=true&vCenter=true&width=900&lines=Hola+Mundo;Soy+Leidy+Johana+Ni%C3%B1o+Villegas;Desarrolladora+en+formaci%C3%B3n" alt="Typing SVG" />
 </div>
+
 
 
 
