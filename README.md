@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋HOLA%20SOY%20LEIDY%20JOHANA&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋HOLA%15SOY%15LEIDY%15JOHANA%15NIÑO%15VILLEGAS&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <h3 align="center">💻 Desarrolladora en formación | 🚀 Apasionada por la tecnología</h3>
