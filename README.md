@@ -1,8 +1,7 @@
 <!-- Banner superior -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=9b59b6,2ecc71,3498db,f1c40f,e74c3c&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Leidy+Johana+Villegas;💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código;✨+Transformando+ideas;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=9b59b6,2ecc71,3498db,f1c40f,e74c3c&center=true&vCenter=true&width=1000&lines=👋+Hola%2C+soy+Leidy+Johana+Villegas;💻+Apasionada+por+la+programación;🚀+Construyendo+el+futuro+con+código;✨+Transformando+ideas+en+realidad;🌍+Tecnología+para+cambiar+el+mundo;🔥+Aprender+es+mi+superpoder" alt="Typing SVG" />
 </div>
-
 
 <h3 align="center">💻 Desarrolladora en formación </h3>
 
@@ -24,7 +23,7 @@ Actualmente soy aprendiz en <b>SENA</b> y camper en <b>Campuslands</b>, donde me
 
 <h2 align="center">🌐 Conecta conmigo</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/leidy-villegas-917565357">
+  <a href="https://linkedin.com/in/leidy-villegas-917565357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
